@@ -21,6 +21,26 @@ pip install transformers
 ### 快速使用
 run `infer.py`
 
+### 案例
+```
+prompt = "使用以下标题写一首现代诗：春的绿潮漫过我"
+```
+```
+
+```
+```
+prompt = "写一首与以下内容有关的现代诗：我的梦悬挂在森林的上头"
+```
+```
+
+```
+```
+prompt = "使用下列意象写一首现代诗：黄昏，群鸟"
+```
+```
+
+```
+
 ### 模型权重
 你也可以直接从Huggingface下载模型：[Hyaline/Zhima-7B](https://huggingface.co/Hyaline/Zhima-7B)
 
