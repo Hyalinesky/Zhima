@@ -10,7 +10,7 @@
 芝麻这个名字来源于志摩（徐志摩）的谐音。徐志摩（1897-1931）是一位著名的中国现代诗人。
 
 ## 📣 新闻
-- **[2025/5/26]** 我们公开了7B模型: [Zhima-7B](https://huggingface.co/Hyaline/Zhima-7B)
+- **[2025/5/30]** 我们公开了0.5B模型: [Zhima-0.5B](https://huggingface.co/Hyaline/Zhima-0.5B)
 - **[2025/5/26]** 我们公开了训练数据集: [AI-Generated_Chinese_Modern_Poetry](https://huggingface.co/datasets/Hyaline/AI-Generated_Chinese_Modern_Poetry)
 
 ## 🛠️ 使用
@@ -83,7 +83,7 @@ prompt = "写一首与以下内容有关的现代诗：我的梦悬挂在森林�
 
 
 ### 模型权重
-你也可以直接从Huggingface下载模型：[Hyaline/Zhima-7B](https://huggingface.co/Hyaline/Zhima-7B)
+你也可以直接从Huggingface下载模型：[Hyaline/Zhima0.5B](https://huggingface.co/Hyaline/Zhima-0.5B)
 
 ### 数据集
 你可以从Huggingface下载我们的训练数据。我们构造并使用[AI-Generated_Chinese_Modern_Poetry](https://huggingface.co/datasets/Hyaline/AI-Generated_Chinese_Modern_Poetry)训练了芝麻，此外，我们还使用了[chinese_modern_poetry](https://huggingface.co/datasets/Iess/chinese_modern_poetry)。
