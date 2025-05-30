@@ -1,6 +1,6 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name = "Hyaline/Zhima-7B"
+model_name = "Hyaline/Zhima-0.5B"
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -9,7 +9,7 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-prompt = "使用以下标题写一首现代诗：春的绿潮漫过我"
+prompt = "使用以下标题写一首现代诗：孤单是个气球"
 messages = [
     {"role": "user", "content": prompt}
 ]
