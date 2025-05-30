@@ -10,7 +10,7 @@
 The name Zhima comes from the homophone of Zhimo (Xu Zhimo). Xu Zhimo (1897-1931) is a famous Chinese modern poet.
 
 ## 📣 News
-- **[2025/5/26]** We release the 7B model: [Zhima-7B](https://huggingface.co/Hyaline/Zhima-7B)
+- **[2025/5/26]** We release the 0.5B model: [Zhima-0.5B](https://huggingface.co/Hyaline/Zhima-0.5B)
 - **[2025/5/26]** We release the training dataset: [AI-Generated_Chinese_Modern_Poetry](https://huggingface.co/datasets/Hyaline/AI-Generated_Chinese_Modern_Poetry)
 
 ## 🛠️ Usage
@@ -22,7 +22,7 @@ pip install transformers
 run `infer.py`
 
 ### Model Weights
-You can also download the model directly from Huggingface: [Hyaline/Zhima-7B](https://huggingface.co/Hyaline/Zhima-7B)
+You can also download the model directly from Huggingface: [Hyaline/Zhima-0.5B](https://huggingface.co/Hyaline/Zhima-0.5B)
 
 ### Dataset
 You can download our training data from Huggingface. We construct and use [AI-Generated_Chinese_Modern_Poetry](https://huggingface.co/datasets/Hyaline/AI-Generated_Chinese_Modern_Poetry) to train Zhima. Additionally, we also use [chinese_modern_poetry](https://huggingface.co/datasets/Iess/chinese_modern_poetry).
